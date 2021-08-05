@@ -1,0 +1,6 @@
+yum离线下载包：
+    在有网的电脑上
+    yum -y install --downloadonly --downloaddir=/home/Package/ 软件名
+
+    安装
+    rpm -ivh xxx.rpm
